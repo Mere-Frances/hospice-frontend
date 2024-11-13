@@ -28,7 +28,7 @@ const Home = () => {
             <p>Watch this short video to get an idea of what hospice is all about, then read our complete guide to end of life care in New Zealand.</p>
             <button className='primary-button'>Watch video</button>
           </div>
-          <img src='./public/header-bg-imgs/laughing-women.jpg' alt='Two woman laughing together'/>
+          <img src='../public/header-bg-imgs/laughing-women.jpg' alt='Two woman laughing together'/>
         </div>
         <div className='source-container'>
           <div className='source-title'>
